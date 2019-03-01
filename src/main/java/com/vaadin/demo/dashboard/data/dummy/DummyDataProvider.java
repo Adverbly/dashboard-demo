@@ -230,12 +230,12 @@ public class DummyDataProvider implements DataProvider {
     static List<String> theaters = new ArrayList<String>() {
         private static final long serialVersionUID = 1L;
         {
-            add("Threater 1");
-            add("Threater 2");
-            add("Threater 3");
-            add("Threater 4");
-            add("Threater 5");
-            add("Threater 6");
+            add("Theater 1");
+            add("Theater 2");
+            add("Theater 3");
+            add("Theater 4");
+            add("Theater 5");
+            add("Theater 6");
         }
     };
 
